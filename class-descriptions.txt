@@ -1,3 +1,7 @@
 main-header
 brug:
 alle sider på  hoved header
+
+threeslice-gallery
+brug:
+alle steder man skal bruge et 3x3 galleri. fylder hele parent element
